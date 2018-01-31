@@ -1,0 +1,66 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="DnnContra.LegalShield" type="Skin" version="00.01.00">
+      <friendlyName>DnnContra.LegalShield</friendlyName>
+      <description>A responsive DNN skin using Bootstrap v4.0.0. Requires installation via the Host/Extensions page.</description>
+      <owner>
+        <name>Roman M. Yagodin</name>
+        <organization>R7.Labs</organization>
+        <url>https://github.com/volgau/DnnContra.LegalShield</url>
+        <email>roman.yagodin@gmail.com</email>
+      </owner>
+      <azureCompatible>true</azureCompatible>
+      <license src="License.txt"></license>
+      <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">08.00.00</dependency>
+      </dependencies>
+      <components>
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>portals/_default/skins/DnnContra.LegalShield</basePath>
+            <resourceFile>
+              <name>Resources_Skins.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+        <component type="Skin">
+          <skinFiles>
+            <skinName>DnnContra.LegalShield</skinName>
+            <basePath />
+          </skinFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DnnContra.LegalShield.Containers" type="Container" version="00.01.00">
+      <friendlyName>DnnContra.LegalShield</friendlyName>
+      <description>Containers for the DnnContra.LegalShield Theme package.</description>
+      <owner>
+        <name>Roman M. Yagodin</name>
+        <organization>R7.Labs</organization>
+        <url>https://github.com/volgau/DnnContra.LegalShield</url>
+        <email>roman.yagodin@gmail.com</email>
+      </owner>
+      <license src="License.txt"></license>
+      <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">08.00.00</dependency>
+      </dependencies>
+      <components>
+      <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>portals/_default/containers/DnnContra.LegalShield</basePath>
+            <resourceFile>
+              <name>Resources_Containers.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+        <component type="Container">
+					<containerFiles>
+						<containerName>DnnContra.LegalShield</containerName>
+					</containerFiles>
+        </component>
+      </components>            
+    </package>
+  </packages>
+</dotnetnuke>
