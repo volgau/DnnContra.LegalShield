@@ -4,13 +4,21 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Make install package",
+            "label": "Local Deploy",
             "type": "shell",
-            "command": "pwsh -f Install.ps1",
+            "command": "./LocalDeploy.sh",
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Make Install Package",
+            "type": "shell",
+            "command": "pwsh -f Install.ps1",
+            "group": "build",
+            "problemMatcher": []    
         }
     ]
 }
