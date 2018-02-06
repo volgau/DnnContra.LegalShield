@@ -46864,7 +46864,7 @@ header {
     margin: 0; }
 
 footer {
-  padding-top: 60px;
+  padding-top: 2rem;
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   line-height: 22px;
@@ -46889,6 +46889,10 @@ footer {
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out; }
+
+footer > .container > .row:first-child {
+  padding-bottom: 2rem;
+}
 
 .back-to-top {
   display: none;
