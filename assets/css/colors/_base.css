@@ -120,3 +120,5 @@ footer a:hover { color: #ff5722; }
 
 /* additional styles */
 .text-highlighted { color: #ff5722; }
+
+footer ul, footer ol { color: #666666; }
