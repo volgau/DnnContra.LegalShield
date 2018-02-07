@@ -46651,11 +46651,6 @@ header {
   font-size: 16px;
   display: block;
   line-height: 45px; }
-  .top-bar .contact-details li a:before {
-    position: relative;
-    content: "|";
-    font-size: 12px;
-    margin: 0 3px; }
 
 .top-bar .general-functions .open > .dropdown-menu {
   -webkit-transform: scale(1, 1);
