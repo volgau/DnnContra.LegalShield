@@ -118,7 +118,10 @@ footer a:hover { color: #ff5722; }
 
 .contraC .contentpane ul.angle-double-list li:before, .contraC .contentpane ul.arrow-list li:before, .contraC .contentpane ul.arrow-circle-list li:before, .contraC .contentpane ul.chevron-list li:before, .contraC .contentpane ul.chevron-circle-list li:before, .contraC .contentpane ul.caret-list li:before, .contraC .contentpane ul.caret-square-list li:before, .contraC .contentpane ul.tick-list li:before, .contraC .contentpane ul.tick-circle-list li:before, .contraC .contentpane ul.cross-list li:before, .contraC .contentpane ul.cross-circle-list li:before, .contraC .contentpane ul.link-list li:before { color: #ff5722; }
 
-/* additional styles */
+/* Additional styles */
+
 .text-highlighted { color: #ff5722; }
 
 footer ul, footer ol { color: #666666; }
+
+.top-bar .contact-details li { color: #999999; }
