@@ -46683,7 +46683,10 @@ header {
 
 .top-bar .general-functions li {
   float: right;
-  border: none; }
+  border: none;
+  margin-right: 0; }
+  .top-bar .general-functions li .loginGroup {
+    padding-right: 8px; }
   .top-bar .general-functions li .buttonGroup {
     list-style: none;
     margin: 0 !important; }
