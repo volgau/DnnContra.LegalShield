@@ -3,6 +3,7 @@ $Version="00.01.00"
 
 Push-Location
 
+Remove-Item "tmp" -Recurse -Force -ErrorAction Ignore
 New-Item -Path "tmp" -ItemType Directory -Force
 
 Compress-Archive -Path "./*" -DestinationPath "Resources_Skins.zip"
