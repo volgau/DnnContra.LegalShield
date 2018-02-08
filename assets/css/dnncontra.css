@@ -46846,6 +46846,8 @@ header {
     background: url(../images/pattern-03-bg.png) repeat top center #f9f9f9; }
   .page-banner.banner8 {
     background: url(../images/pattern-04-bg.png) repeat top center #f9f9f9; }
+  .page-banner.banner9 {
+    background: linear-gradient(#ddd, #fff); }
   .page-banner h2 {
     font-weight: 600;
     font-family: "Open Sans", sans-serif;

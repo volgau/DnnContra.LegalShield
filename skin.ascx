@@ -32,7 +32,7 @@
 </header><!-- ./Header -->
 
 <!-- Start Page title area -->
-<div class="page-banner banner8">
+<div class="page-banner banner9">
     <div class="container">
         <!--#include file="layouts/default/page-title.ascx" -->
     </div>    
