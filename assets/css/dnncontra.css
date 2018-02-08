@@ -46689,11 +46689,16 @@ header {
     margin: 0 !important; }
   .top-bar .general-functions li .material-icons {
     font-size: 1.8em;
-    display: block;
+    display: inline-block;
     width: 45px;
     height: 45px;
     line-height: 45px;
     text-align: center; }
+  .top-bar .general-functions li .material-icons-label {
+    position: relative;
+    top: -5px;
+    left: -5px;
+    font-weight: bold; }
   .top-bar .general-functions li a {
     font-size: 12px;
     display: block;
