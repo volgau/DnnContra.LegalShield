@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="230"
@@ -29,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="96.290237"
-     inkscape:cy="46.878901"
+     inkscape:zoom="1.0700757"
+     inkscape:cx="29.595946"
+     inkscape:cy="-80.026817"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,26 +108,6 @@
          x="15.377492"
          y="321.78635"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#333333;stroke-width:0.19612524px">экспертно-юридический центр</tspan></text>
-    <image
-       sodipodi:absref="/home/redhound/Рабочий стол/Сайт МИП 2018/Screenshot-2018-2-5 Font Awesome 5 balance-scale.png"
-       y="308.34842"
-       x="27.141052"
-       id="image16738"
-       xlink:href="file:///home/redhound/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%9C%D0%98%D0%9F%202018/Screenshot-2018-2-5%20Font%20Awesome%205%20balance-scale.png"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="37.041668" />
-    <image
-       sodipodi:absref="/home/redhound/Рабочий стол/Сайт МИП 2018/Screenshot-2018-2-5 Font Awesome 5 shield-alt.png"
-       y="310.06821"
-       x="1.3441782"
-       id="image16749"
-       xlink:href="file:///home/redhound/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%9C%D0%98%D0%9F%202018/Screenshot-2018-2-5%20Font%20Awesome%205%20shield-alt.png"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="29.633333" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff5722;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 7.2828491,296.11372 c -0.6942837,-0.21703 -1.9502815,-1.06188 -2.7781519,-1.86873 -1.1015861,-1.07362 -2.0465027,-2.44991 -2.5444885,-3.70607 -0.086766,-0.21888 -0.1771732,-0.42781 -0.2009042,-0.46427 -0.023731,-0.0365 -0.1119425,-0.29018 -0.1960251,-0.56376 -0.084083,-0.27359 -0.1769213,-0.55711 -0.2063081,-0.63008 -0.054612,-0.13558 -0.088489,-0.27933 -0.203189,-0.8622 -0.15914788,-0.80875 -0.19974719,-1.19499 -0.23434373,-2.22941 -0.0357403,-1.06865 -0.0322565,-1.10894 0.11537573,-1.33416 0.2078779,-0.31713 0.4617873,-0.4777 1.2998476,-0.82204 0.3940569,-0.16192 0.8060042,-0.33582 0.9154385,-0.38644 0.1094343,-0.0505 0.4377368,-0.18666 0.7295615,-0.30226 0.2918244,-0.11563 0.6499728,-0.2646 0.7958852,-0.33108 0.1459122,-0.0664 0.5040605,-0.21564 0.7958853,-0.33149 0.2918244,-0.11586 0.688005,-0.28259 0.8804012,-0.37051 0.4962794,-0.22682 1.1085576,-0.4255 1.3112635,-0.4255 0.1612663,0 1.3016707,0.41749 1.9615933,0.7181 0.1597384,0.0727 0.5292006,0.22716 0.8210236,0.34308 0.291825,0.11592 0.649974,0.26514 0.795886,0.33162 0.145912,0.0664 0.504061,0.21563 0.795886,0.33149 0.291824,0.11585 0.688164,0.28266 0.880755,0.37068 0.192589,0.088 0.363319,0.16003 0.379396,0.16003 0.01608,0 0.192958,0.0748 0.393071,0.16644 0.371822,0.17007 0.612613,0.42504 0.763736,0.80869 0.14328,0.36376 0.01734,2.28583 -0.220738,3.36907 -0.523661,2.3826 -1.654898,4.4737 -3.28299,6.06864 -1.0860453,1.06393 -2.682907,2.05877 -3.2905995,2.05002 -0.1094341,-0.002 -0.3242045,-0.042 -0.4772674,-0.0899 z"
