@@ -24,9 +24,9 @@ h2, h4, h6 { color: #ff5722; }
 
 .top-bar .general-functions li .message-holder .buttonGroup .userMessages span { background: #ff5722; color: white; }
 
-.top-bar .general-functions li .profile-holder .buttonGroup li { border-left: 1px solid #f2f2f2; }
+.top-bar .general-functions li .profile-holder .buttonGroup .userDisplayName { border-right: 1px solid #f2f2f2; }
 
-.top-bar .general-functions li .profile-holder .buttonGroup .userProfileImg { border-right: solid 1px #f2f2f2; }
+.top-bar .general-functions li .profile-holder .buttonGroup .userProfileImg { border-left: 1px solid #f2f2f2; }
 
 .menu-bar { background-color: white; border-bottom: 1px solid #f2f2f2; }
 

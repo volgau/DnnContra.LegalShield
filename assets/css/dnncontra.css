@@ -46804,8 +46804,13 @@ header {
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out; }
-  .top-bar .general-functions li .profile-holder .buttonGroup .userDisplayName {
-    display: none; }
+  .top-bar .general-functions li .profile-holder .userDisplayName {
+    padding-right: 10px; }
+  .top-bar .general-functions li .profile-holder .userDisplayName a {
+    width: auto;
+    top: 2px;
+    font-size: 12px;
+    font-weight: bold; }
   .top-bar .general-functions li .profile-holder .buttonGroup .userMessages {
     display: none; }
   .top-bar .general-functions li .profile-holder .buttonGroup .userNotifications {
