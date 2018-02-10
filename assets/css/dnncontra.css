@@ -46938,6 +46938,10 @@ footer > .container > .row:first-child {
   .search .searchInputContainer {
     width: 100%;
     /*border:solid 1px $top-bar-color;*/ }
+  .search .searchInputContainer a.dnnSearchBoxClearText.dnnShow {
+    position: absolute;
+    top: 7px;
+  }
   .search .SearchButton {
     display: none; }
   .search input {
