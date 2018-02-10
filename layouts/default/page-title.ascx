@@ -1,6 +1,6 @@
 ﻿<div class="row">
     <div class="col-xs-12 col-md-7 text-xs-center text-md-left">
-        <h2><%= Convert.ToString(PortalSettings.ActiveTab.Title)%></h2>
+        <h2><%= Convert.ToString(PortalSettings.ActiveTab.TabName)%></h2>
         <% if not PortalSettings.ActiveTab.Description = nothing Then  %>
             <p><%= Convert.ToString(PortalSettings.ActiveTab.Description)%></p>
         <% end if %>
