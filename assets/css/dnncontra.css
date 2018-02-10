@@ -46953,12 +46953,13 @@ footer > .container > .row:first-child {
     width: 100%; }
   .search ul.searchSkinObjectPreview > li {
     /*border-top: 1px solid $top-bar-color; */
-    width: 100%; }
+    width: 100%;
+    text-align: left; }
     .search ul.searchSkinObjectPreview > li.searchSkinObjectPreview_group {
       /* background-color: $top-bar-bg-color;
             color: $top-bar-color;*/
       width: 100%;
-      text-align: left;
+      text-align: center;
       font-weight: normal;
       border-bottom: none; }
 
