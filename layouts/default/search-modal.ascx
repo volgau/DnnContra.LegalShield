@@ -2,8 +2,8 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="searchModalLabel">Search</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <h5 class="modal-title" id="searchModalLabel">Поиск</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Закрыть">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div><!-- ./modal-header -->
@@ -13,7 +13,7 @@
                         ShowSite="false" 
                         ShowWeb="false" 
                         EnableTheming="true" 
-                        Submit="Search" 
+                        Submit="Поиск" 
                         CssClass="SearchButton" />
                 </div>
             </div><!-- ./modal-body -->
