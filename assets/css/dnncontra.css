@@ -47331,3 +47331,6 @@ p {
   display: inline-block;
   line-height: 37px;
   text-align: center; }
+
+.popover .popover-header {
+  font-weight: 600; }
