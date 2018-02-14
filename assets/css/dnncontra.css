@@ -47001,20 +47001,17 @@ i {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
-  font-weight: 400;
-  margin: 0; }
+  font-weight: 400; }
 
 h1, h2 {
   font-size: 2rem;
   line-height: 3rem; }
 
 h3, h4 {
-  font-size: 1.5rem;
-  line-height: 2.5rem; }
+  font-size: 1.5rem; }
 
 h5, h6 {
-  font-size: 1.2rem;
-  line-height: 2.2rem; }
+  font-size: 1.2rem; }
 
 p {
   font-size: 1rem;
