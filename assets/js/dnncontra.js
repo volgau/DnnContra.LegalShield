@@ -45,7 +45,7 @@
         function scrollPage() {
             var sy = scrollY();
             if (sy >= changeHeaderOn) {
-                $('.top-bar').slideUp(300);
+                //$('.top-bar').slideUp(300);
                 $("header").addClass("fixed-header");
                 //$('.navbar-brand').css({ 'padding-top': 19 + "px", 'padding-bottom': 19 + "px" });
 
@@ -58,7 +58,7 @@
 
             }
             else {
-                $('.top-bar').slideDown(300);
+                //$('.top-bar').slideDown(300);
                 $("header").removeClass("fixed-header");
                 //$('.navbar-brand').css({ 'padding-top': 27 + "px", 'padding-bottom': 27 + "px" });
 
