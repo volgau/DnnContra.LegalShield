@@ -123,3 +123,75 @@ footer a:hover { color: #ff5722; }
 footer ul, footer ol { color: #666666; }
 
 .top-bar .contact-details li { color: #999999; }
+
+a.btn.btn-primary,
+a.btn.btn-primary:active,
+a.btn.btn-primary:link,
+a.btn.btn-primary:visited,
+a.btn.btn-primary:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-secondary,
+a.btn.btn-secondary:active,
+a.btn.btn-secondary:link,
+a.btn.btn-secondary:visited,
+a.btn.btn-secondary:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-success,
+a.btn.btn-success:active,
+a.btn.btn-success:link,
+a.btn.btn-success:visited,
+a.btn.btn-success:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-danger,
+a.btn.btn-danger:active,
+a.btn.btn-danger:link,
+a.btn.btn-danger:visited,
+a.btn.btn-danger:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-info,
+a.btn.btn-info:active,
+a.btn.btn-info:link,
+a.btn.btn-info:visited,
+a.btn.btn-info:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-dark,
+a.btn.btn-dark:active,
+a.btn.btn-dark:link,
+a.btn.btn-dark:visited,
+a.btn.btn-dark:focus {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-warning,
+a.btn.btn-warning:active,
+a.btn.btn-warning:link,
+a.btn.btn-warning:visited,
+a.btn.btn-warning:focus {
+  color: rgb(33,37,41) !important;
+  font-weight: normal !important;
+}
+
+a.btn.btn-light,
+a.btn.btn-light:active,
+a.btn.btn-light:link,
+a.btn.btn-light:visited,
+a.btn.btn-light:focus {
+  color: rgb(33,37,41) !important;
+  font-weight: normal !important;
+}
