@@ -46729,6 +46729,10 @@ header {
     display: none; }
   .top-bar .general-functions li .notification-holder .buttonGroup .userMessages {
     display: none; }
+  .top-bar .general-functions li .notification-holder .buttonGroup .userNotifications {
+    display: none; }
+  .top-bar .general-functions li .message-holder .buttonGroup .userMessages {
+    display: none; }
   .top-bar .general-functions li .notification-holder .buttonGroup .userNotifications strong:before {
     font-family: 'Material Icons';
     content: "forum";
