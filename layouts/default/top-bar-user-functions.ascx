@@ -22,8 +22,8 @@
             CssClass="LoginLink" 
             runat="server" 
             LegacyMode="false" 
-            LogoffText="&lt;i class=&quot;material-icons material-icons-with-label&quot;&gt;lock&lt;/i&gt; &lt;span class=&quot;material-icons-label&quot;&gt;Выход&lt;/span&gt;"
-            Text="&lt;span class=&quot;text-highlighted&quot;&gt;&lt;i class=&quot;material-icons material-icons-with-label&quot;&gt;lock_open&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;material-icons-label&quot;&gt;Вход&lt;/span&gt;" />
+            LogoffText="&lt;i class=&quot;material-icons material-icons-with-label&quot;&gt;lock&lt;/i&gt; &lt;span class=&quot;material-icons-label&quot;&gt;Выйти&lt;/span&gt;"
+            Text="&lt;span class=&quot;text-highlighted&quot;&gt;&lt;i class=&quot;material-icons material-icons-with-label&quot;&gt;lock_open&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;material-icons-label&quot;&gt;Личный кабинет&lt;/span&gt;" />
     </li><!-- ./Login -->
 
     <%  If DotNetNuke.Security.PortalSecurity.IsInRole("Registered Users") Then %>
