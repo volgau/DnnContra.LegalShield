@@ -1,6 +1,12 @@
 ﻿$(document).ready(function ($) {
     "use strict";
 
+    // hack for GH-22
+    if ($("a#dnn_dnnLogin_enhancedLoginLink").attr ("href").toLowerCase ().indexOf ("logoff") < 0) {
+        $("a#dnn_dnnLogin_enhancedLoginLink")
+            .attr ("href", "http://volgau.com/mip/login?returnurl=%2fmip%2fprofile%2f")
+            .attr ("onclick", "return dnnModal.show('http://volgau.com/mip/login?returnurl=/mip/profile/&popUp=true',/*showReturn*/true,300,650,true,'')");
+    }
 
     $(function () {
         if ($('form').hasClass('showControlBar')) $('.header').addClass('admin-bar');
