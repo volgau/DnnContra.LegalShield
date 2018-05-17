@@ -91,7 +91,7 @@ footer a:hover { color: #ff5722; }
 .contraC h4.lined, .contraC h5.lined, .contraC h6.lined { border-bottom: solid 1px #666; }
 
 @media (min-width: 768px) { .sm-contra ul { background: rgba(162, 162, 162, 0.1); }
-  .sm-contra a, .sm-contra a:hover, .sm-contra a:focus, .sm-contra a:active, .sm-contra a.highlighted { color: #666666; }
+  .sm-contra a, .sm-contra a:hover, .sm-contra a:focus, .sm-contra a:active, .sm-contra a.highlighted { color: #333; }
   .sm-contra a:hover, .sm-contra a:focus, .sm-contra a:active, .sm-contra a.disabled { color: #ff5722; }
   .sm-contra a span.sub-arrow { border-color: #666666 transparent transparent transparent; }
   .sm-contra > li > ul:after { border-color: transparent transparent white transparent; }
