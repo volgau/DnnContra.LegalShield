@@ -13,6 +13,7 @@
 <%@ Register TagPrefix="dnn" TagName="MENU" Src="~/DesktopModules/DDRMenu/Menu.ascx" %>
 <%@ Register TagPrefix="dnn" Namespace="DotNetNuke.Web.Client.ClientResourceManagement" Assembly="DotNetNuke.Web.Client" %>
 
+<!--#include file="layouts/default/js-variables.ascx" -->
 <!--#include file="layouts/default/_includes-top.ascx" --> 
 
 <!-- Start Header Section -->
