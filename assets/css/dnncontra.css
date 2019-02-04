@@ -114,9 +114,6 @@
   padding: 2px; }
   .nav-brand img {
     display: block;
-    max-width: 100%;
-    height: auto;
-    max-height: 74px;
     padding: 2px; }
   .nav-brand a {
     display: block;
@@ -276,7 +273,7 @@
 
 @media (min-width: 768px) {
   .sm-contra a, .sm-contra a:hover, .sm-contra a:focus, .sm-contra a:active, .sm-contra a.highlighted {
-    line-height: 90px;
+    line-height: 108px;
     padding: 0 10px;
     font-size: 14px; }
   .sm-contra li li a,
