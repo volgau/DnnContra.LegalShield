@@ -8,7 +8,7 @@ h2, h4, h6 { color: #ff5722; }
 
 .top-bar a:hover { color: #ff5722; }
 
-.top-bar .contact-details li a { color: #000; }
+.top-bar .contact-details li a { color: #999999; }
 
 .top-bar .contact-details li a:before { color: #999999; }
 
@@ -124,7 +124,7 @@ footer a:hover { color: #ff5722; }
 
 footer ul, footer ol { color: #666666; }
 
-.top-bar .contact-details li { color: #999999; }
+.top-bar .contact-details li { color: 000; }
 
 a.btn.btn-primary,
 a.btn.btn-primary:active,
