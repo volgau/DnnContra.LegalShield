@@ -110,7 +110,6 @@
 .nav-brand {
   float: left;
   margin: 0;
-  height: 90px;
   padding: 2px; }
   .nav-brand img {
     display: block;
@@ -119,7 +118,6 @@
     display: block;
     font-size: 22px;
     font-weight: normal;
-    line-height: 90px;
     text-decoration: none; }
 
 #main-menu {
