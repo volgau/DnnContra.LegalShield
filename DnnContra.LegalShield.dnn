@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="DnnContra.LegalShield" type="Skin" version="00.01.03">
+    <package name="DnnContra.LegalShield" type="Skin" version="00.01.04">
       <friendlyName>DnnContra.LegalShield</friendlyName>
       <description>A responsive DNN skin using Bootstrap 4 for "Legal Shield" website based on DnnContra theme. Requires installation via the Host/Extensions page.</description>
       <owner>
@@ -32,7 +32,7 @@
         </component>
       </components>
     </package>
-    <package name="DnnContra.LegalShield.Containers" type="Container" version="00.01.03">
+    <package name="DnnContra.LegalShield.Containers" type="Container" version="00.01.04">
       <friendlyName>DnnContra.LegalShield</friendlyName>
       <description>Containers for the DnnContra.LegalShield theme package.</description>
       <owner>

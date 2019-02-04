@@ -1,5 +1,5 @@
 $PackageName="DnnContra.LegalShield"
-$Version="0.1.3"
+$Version="0.1.4"
 
 Push-Location
 
