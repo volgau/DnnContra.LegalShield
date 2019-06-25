@@ -1,9 +1,4 @@
-﻿<section id="home-slider">
-
-</section><!-- ./home-slider -->
-
-
-<div class="container-fluid">
+﻿<div class="container-fluid">
     <div class="row"><div class="col-md-12" runat="server" id="TopAPane"></div></div>
 </div>
 <div class="container">
