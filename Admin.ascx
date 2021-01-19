@@ -60,3 +60,4 @@
 <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>   
 
 <!--#include file="layouts/default/_includes-bottom.ascx" -->
+<!--#include file="layouts/default/_wantresult.ascx" -->

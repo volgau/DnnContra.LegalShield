@@ -6,3 +6,5 @@
 <!--#include file="layouts/default/js-variables.ascx" -->
 
 <div id="ContentPane" runat="server" class="col-md-12" />
+
+<!--#include file="layouts/default/_wantresult.ascx" -->
