@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PACKAGE_NAME="DnnContra.LegalShield"
-DEPLOY_PATH="$HOME/mnt/dnn8"
+DEPLOY_PATH="$HOME/mnt/dnn990"
 SKINS_DEPLOY_PATH="$DEPLOY_PATH/Portals/_default/Skins/$PACKAGE_NAME"
 CONTAINERS_DEPLOY_PATH="$DEPLOY_PATH/Portals/_default/Containers/$PACKAGE_NAME"
 
