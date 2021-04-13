@@ -8,3 +8,5 @@
 <!-- Theme pre-defined color scheme -->
 <dnn:DnnCssInclude ID="DnnCssColorScheme" runat="server" FilePath="assets/css/colors/_base.css" PathNameAlias="SkinPath" Name="colorscheme" Version="1.0.0" />
 <!-- Theme pre-defined color scheme -->
+
+<script data-ad-client="ca-pub-9311000650074319" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
