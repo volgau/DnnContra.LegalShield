@@ -214,6 +214,10 @@
   line-height: 17px;
   text-decoration: none; }
 
+ul.sm-contra > li > a {
+  text-transform: uppercase;
+}
+
 .sm-contra a span.sub-arrow {
   position: absolute;
   top: 0;
