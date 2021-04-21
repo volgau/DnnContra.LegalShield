@@ -1,15 +1,15 @@
 ﻿<div class="License">
-   <h3>License</h3>
-   <p class="Owner">
-       Geoff Barlow</br>
-       <a href="https://www.dnnconsulting.net">DnnConsulting.net</a></br>
-       Copyright (c) 2017</br>
+  <h3>License</h3>
+  <p class="Owner">
+      Roman M. Yagodin</br>
+      <a href="mailto:roman.yagodin@gmail.com">roman.yagodin@gmail.com</a></br>
+      Copyright (c) 2018-2021</br>
    </p>
    <p class="Owner">
-       Roman M. Yagodin</br>
-       <a href="mailto:roman.yagodin@gmail.com">roman.yagodin@gmail.com</a></br>
-       Copyright (c) 2018</br>
-   </p>
+      Geoff Barlow</br>
+      <a href="https://www.dnnconsulting.net">DnnConsulting.net</a></br>
+      Copyright (c) 2017</br>
+  </p>
   <p>
       Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
       documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
