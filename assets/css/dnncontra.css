@@ -46912,24 +46912,37 @@ footer > .container > .row:first-child {
   display: none;
   position: fixed;
   bottom: 18px;
-  right: 15px; }
-  .back-to-top i {
-    display: block;
-    width: 36px;
-    height: 36px;
-    line-height: 36px;
-    color: #fff;
-    text-align: center;
-    background-color: #444;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
-    background-clip: padding-box;
-    /* stops bg color from leaking outside the border: */
-    -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out; }
+  right: 18px;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  background-color: #ff5722;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  border-radius: 24px;
+  /* stops bg color from leaking outside the border: */
+  background-clip: padding-box;
+}
+
+.back-to-top i {
+  display: block;
+  font-size: 125%;
+  height: 44px;
+  line-height: 44px;
+  color: #fff;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+a.back-to-top:hover {
+  text-decoration: none;
+}
+
+a.back-to-top:hover i {
+  font-size: 150%;
+}
 
 /*------------------------------------------------*/
 /* SEARCH */
